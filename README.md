@@ -21,7 +21,7 @@ Aplicación hecha con **Vite + React** que practica la creación de **componente
 git clone https://github.com/GinoSarubbi/RI_M1U4_GinoSarubbi-181751.git  
 
 # 2. Entrar a la carpeta del proyecto
-cd mi-app-react
+cd RI_M1U4_GinoSarubbi-181751
 
 # 3. Instalar las dependencias
 npm install
