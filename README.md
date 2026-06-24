@@ -70,8 +70,8 @@ El componente `Tarjeta` recibe por props: `nombre`, `profesion`, `imagen` y `des
 ## 🖼️ Capturas de pantalla
 
 ```markdown
-![Tarjetas en escritorio](src/assets/tarjetasEscritorio.png)
-![Tarjetas en mobile](src/assets/tarjetaMobile.png)
+![alt text](src/assets/tarjetasEscritorio.png)
+![alt text](src/assets/tarjetaMobile.png)
 ```
 ---
 
