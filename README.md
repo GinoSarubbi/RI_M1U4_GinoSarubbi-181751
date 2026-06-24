@@ -18,7 +18,7 @@ Aplicación hecha con **Vite + React** que practica la creación de **componente
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/GinoSarubbi/Modulo1-Unidad4.git  
+git clone https://github.com/GinoSarubbi/RI_M1U4_GinoSarubbi-181751.git  
 
 # 2. Entrar a la carpeta del proyecto
 cd mi-app-react
