@@ -67,15 +67,6 @@ El componente `Tarjeta` recibe por props: `nombre`, `profesion`, `imagen` y `des
 
 ---
 
-## 🖼️ Capturas de pantalla
-
-```markdown
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/cd09f91a-0af6-4141-8814-4b92bc4a90c5" />
-<img width="383" height="829" alt="image" src="https://github.com/user-attachments/assets/30041331-2d01-4ebf-bb6a-c2829d28285e" />
-
-```
----
-
 ## 👤 Créditos del autor
 
 - **Estudiante:** Gino Sarubbi 🔧
