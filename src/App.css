@@ -1,0 +1,19 @@
+#center {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  align-items: stretch;   /* todas la misma altura */
+  padding: 2rem;
+  flex-wrap: wrap;
+  min-height: 100vh;      /* centra verticalmente en la pantalla */
+  align-content: center;
+
+  @media (max-width: 1024px) {
+    padding: 32px 20px 24px;
+    gap: 18px;
+  }
+  }
+
+
+
+
