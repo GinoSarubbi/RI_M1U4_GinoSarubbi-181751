@@ -63,7 +63,7 @@ mi-app-react/
             └── Tarjeta.css  # Estilos de la tarjeta
 ```
 
-El componente `Tarjeta` recibe por props: `nombre`, `profesion`, `imagen` y `descripcion`, y arma el JSX con una `<img>` (con `alt` descriptivo), un `<h2>` con el nombre, un `<h3>` con la profesión y un `<p>` con la descripción.
+El componente `Tarjeta` recibe por props: `nombre`, `profesion`, `imagen` y `descripcion`,`accion` y arma el JSX con una `<img>` (con `alt` descriptivo), un `<h2>` con el nombre, un `<h3>` con la profesión y un `<p>` con la descripción.
 
 ---
 
